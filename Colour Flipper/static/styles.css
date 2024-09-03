@@ -1,0 +1,40 @@
+*{
+    margin: 0;
+    padding: 0;
+}
+
+.container{
+    padding: 30px;
+}
+
+.main{
+    display: flex;
+    gap: 20px;
+}
+
+h2{
+    margin-bottom: 20px;
+}
+
+button{
+    width: max-content;
+    width: max-content;
+    padding: 10px;
+    border-radius: 5px;
+}
+
+#red button{
+    background-color: red;
+}
+
+#yellow button{
+    background-color: yellow;
+}
+
+#green button{
+    background-color: green;
+}
+
+#blue button{
+    background-color: blue;
+}
